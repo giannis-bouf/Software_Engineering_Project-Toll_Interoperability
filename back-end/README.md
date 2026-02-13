@@ -32,16 +32,8 @@ The back-end component provides the core server-side functionality for the Toll 
 - **`testing_api/`** - API testing files and test cases
 - **`uploads/`** - Directory for handling file uploads from clients
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 - Node.js (v14 or higher)
 - npm or yarn package manager
 - Database system (MySQL, PostgreSQL, or similar)
-
-### Installation
-
-1. Navigate to the back-end directory:
-   ```bash
-   cd back-end
