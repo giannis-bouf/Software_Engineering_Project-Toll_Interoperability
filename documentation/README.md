@@ -4,7 +4,7 @@
 
 This directory contains comprehensive technical and requirements documentation for the Toll Interoperability System project. It includes system specifications, stakeholder requirements, and detailed UML design diagrams that define the architecture and functionality of the entire system.
 
-## 📋 Document Contents
+## Document Contents
 
 ### Software Requirements Specification (SRS)
 
