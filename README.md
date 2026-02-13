@@ -8,7 +8,7 @@ This project implements a **Toll Interoperability System** designed to manage an
 
 The repository is organized into the following main directories:
 
-### 📁 Directory Contents
+### Directory Contents
 
 - **`back-end/`** - Backend Application Server
   - Source code for toll interoperability data management and processing
