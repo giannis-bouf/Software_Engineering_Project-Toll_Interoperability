@@ -1,6 +1,6 @@
 # Toll Interoperability System
 
-## Project Overview
+## 📖 Project Overview
 
 This project implements a **Toll Interoperability System** designed to manage and facilitate toll collection across multiple toll operators. The system provides both frontend and backend components to support toll operations, data management, and user interactions through various interfaces.
 
@@ -8,7 +8,7 @@ This project implements a **Toll Interoperability System** designed to manage an
 
 The repository is organized into the following main directories:
 
-### Directory Contents
+### 📂 Directory Contents
 
 - **`back-end/`** - Backend Application Server
   - Source code for toll interoperability data management and processing
@@ -41,7 +41,7 @@ The repository is organized into the following main directories:
 - **`.gitignore`** - Git Configuration
   - Standard Git ignore patterns for the project
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 The system follows a modern web architecture with:
 - **Backend**: RESTful API for data operations and toll management
